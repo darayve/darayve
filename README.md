@@ -29,10 +29,8 @@ I'm an intern working with Android development in Kotlin, and web development in
 
 #### ✉ Contact me at
 
-<p>
-  <a href="mailto:darayve@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/darayve@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=red"></a>
-  <a href="https://www.linkedin.com/in/darayve/"><img alt="linkedin" src="https://img.shields.io/badge/dara_yve-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+<a href="mailto:darayve@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/darayve@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=red"></a>
+<a href="https://www.linkedin.com/in/darayve/"><img alt="linkedin" src="https://img.shields.io/badge/dara_yve-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44681993/135729020-0f0d1250-a522-4231-b82b-43317248e8ab.gif" alt="Blue bird pixel" width="50px" />
