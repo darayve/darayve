@@ -1,6 +1,6 @@
 ## Hey, I'm Dara Yve! <img src="https://user-images.githubusercontent.com/44681993/135729078-0af5a691-ca3c-4660-a11d-1f1ac0223e5a.gif" alt="Hand waving gif" width="27px" />
 
-I'm an currently working with Android development in Kotlin, and web development in React JS!
+I am currently working with Android development in Kotlin, and web development in React JS!
 
 #### 👩‍💻 I am currently learning 
 
