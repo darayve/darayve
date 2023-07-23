@@ -7,10 +7,10 @@ I am currently working with Android development in Kotlin!
 <a href="https://www.android.com/" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
 <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin badge" /></a>
 <a href="https://www.bitrise.io/" target="_blank"><img src="https://img.shields.io/badge/Bitrise-351D48.svg?style=for-the-badge&logo=Bitrise&logoColor=white" alt="Bitrise" /></a>
-
-#### 🔨 And I've also had some experiences with
 <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" /></a>
 <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
+
+#### 🔨 And I've also had some experiences with
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></a>
 <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /></a>
 <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
